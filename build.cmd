@@ -1,0 +1,1 @@
+go build -o dist/timeblocks.exe cmd/timeblocks/main.go
